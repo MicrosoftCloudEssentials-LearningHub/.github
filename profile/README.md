@@ -22,4 +22,3 @@ about Microsoft Cloud and to share personal experience and learning with the com
   <p>Refresh Date: 2025-07-15</p>
 </div>
 <!-- END BADGE -->
-
