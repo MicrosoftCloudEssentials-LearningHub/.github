@@ -18,7 +18,7 @@ about Microsoft Cloud and to share personal experience and learning with the com
 
 <!-- START BADGE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20views-1291-limegreen" alt="Total views">
-  <p>Refresh Date: 2025-08-04</p>
+  <img src="https://img.shields.io/badge/Total%20views-1282-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-08-18</p>
 </div>
 <!-- END BADGE -->
