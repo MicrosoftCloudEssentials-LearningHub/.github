@@ -12,7 +12,7 @@ Last updated: 2026-02-11
 > This repository holds the public **GitHub profile content** for *Microsoft Cloud Sandbox - Unofficial* and a small **GitHub Actions automation** that refreshes the visitor/view counter badge.
 
 > E.g
-> 
+
 <img width="903" height="599" alt="image" src="https://github.com/user-attachments/assets/8be272c2-d1f1-43c2-b4cf-a724e5233871" />
 
 ## What this is for
