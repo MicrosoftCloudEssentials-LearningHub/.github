@@ -36,6 +36,29 @@ about Microsoft Cloud and to share personal experience and learning with the com
 
 </details>
 
+```mermaid
+flowchart LR
+  subgraph Personal_Productivity[Personal Productivity]
+    CopilotChat[Copilot Chat] --> M365Copilot[M365 Copilot]
+  end
+
+  subgraph Business_Productivity[Business Productivity]
+    MicrosoftAgents[Microsoft Agents]
+  end
+
+  subgraph Extensibility[Extensibility]
+    CopilotStudio[Copilot Studio] --> AzureAIFoundry[Azure AI Foundry]
+  end
+
+  subgraph Customizability[Customizability]
+    ThirdPartyCustomAgents[3rd Party & Custom Agents]
+  end
+
+  M365Copilot --> MicrosoftAgents
+  MicrosoftAgents --> CopilotStudio
+  AzureAIFoundry --> ThirdPartyCustomAgents
+```
+
 <!-- START BADGE -->
 <div align="center">
   <img src="https://img.shields.io/badge/Total%20views-1280-limegreen" alt="Total views">
