@@ -31,7 +31,7 @@ about Microsoft Cloud and to share personal experience and learning with the com
 
 - [AI-900 - Study Guide: Azure AI Fundamentals](https://github.com/MicrosoftCloudEssentials-LearningHub/AI-900StudyGuide)
 - [DP-900 - Study Guide: Azure Data Fundamentals](https://github.com/MicrosoftCloudEssentials-LearningHub/DP-900StudyGuide)
-- [AI-102- Study Guide: Azure AI Engineer Associate](https://github.com/MicrosoftCloudEssentials-LearningHub/AI-102StudyGuide)
+- [AI-102 - Study Guide: Azure AI Engineer Associate](https://github.com/MicrosoftCloudEssentials-LearningHub/AI-102StudyGuide)
 - [DP-100 - Study Guide: Designing and Implementing a Data Science Solution on Azure](https://github.com/MicrosoftCloudEssentials-LearningHub/DP-100StudyGuide)
 
 </details>
