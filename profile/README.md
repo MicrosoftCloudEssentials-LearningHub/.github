@@ -5,7 +5,7 @@ Costa Rica
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
-Last updated: 2025-05-13
+Last updated: 2026-02-25
 
 ----------
 
@@ -36,9 +36,32 @@ about Microsoft Cloud and to share personal experience and learning with the com
 
 </details>
 
+```mermaid
+flowchart LR
+  subgraph Personal_Productivity[Personal Productivity]
+    CopilotChat[Copilot Chat] --> M365Copilot[M365 Copilot]
+  end
+
+  subgraph Business_Productivity[Business Productivity]
+    MicrosoftAgents[Microsoft Agents]
+  end
+
+  subgraph Extensibility[Extensibility]
+    CopilotStudio[Copilot Studio] --> AzureAIFoundry[Azure AI Foundry]
+  end
+
+  subgraph Customizability[Customizability]
+    ThirdPartyCustomAgents[3rd Party & Custom Agents]
+  end
+
+  M365Copilot --> MicrosoftAgents
+  MicrosoftAgents --> CopilotStudio
+  AzureAIFoundry --> ThirdPartyCustomAgents
+```
+
 <!-- START BADGE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20views-1280-limegreen" alt="Total views">
-  <p>Refresh Date: 2025-12-02</p>
+  <img src="https://img.shields.io/badge/Total%20views-1354-limegreen" alt="Total views">
+  <p>Refresh Date: 2026-02-25</p>
 </div>
 <!-- END BADGE -->
