@@ -26,6 +26,16 @@ about Microsoft Cloud and to share personal experience and learning with the com
 
 </details>
 
+<details>
+<summary><b> Certifications: </b> (Click to expand)</summary>
+
+- [AI-900 - Study Guide: Azure AI Fundamentals](https://github.com/MicrosoftCloudEssentials-LearningHub/AI-900StudyGuide)
+- [DP-900 - Study Guide: Azure Data Fundamentals](https://github.com/MicrosoftCloudEssentials-LearningHub/DP-900StudyGuide)
+- [AI-102- Study Guide: Azure AI Engineer Associate](https://github.com/MicrosoftCloudEssentials-LearningHub/AI-102StudyGuide)
+- [DP-100 - Study Guide: Designing and Implementing a Data Science Solution on Azure](https://github.com/MicrosoftCloudEssentials-LearningHub/DP-100StudyGuide)
+
+</details>
+
 <!-- START BADGE -->
 <div align="center">
   <img src="https://img.shields.io/badge/Total%20views-1280-limegreen" alt="Total views">
